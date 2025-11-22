@@ -6,7 +6,7 @@
   <title>ScrollX — Create Professional End Credits</title>
   <meta name="description" content="Create professional end credits in minutes. Templates, instant render, unlimited projects." />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+  <link href="[https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap](https://cdn.prod.website-files.com/67c1713b48f6d71551a82f33/681a05f7e5bda68e384d3413_67e26bc6a5e5bd7d52fc0e2d_Group%202147225440%20(1)%202.png)" rel="stylesheet">
   <style>
     :root{
       --bg1: #0f1724;
@@ -115,8 +115,8 @@
         <p class="lead">Perfectly formatted end credits ready in minutes. Pick a template, paste your credits, render an MP4 — done.</p>
 
         <div style="display:flex;gap:12px;margin-bottom:18px;">
-          <a class="btn btn-primary" href="#">Join to Try for Free</a>
-          <a class="btn" href="#">Watch Video</a>
+          <a class="btn btn-primary" href="https://www.scrollx.io/">Join to Try for Free</a>
+          <a class="btn" href="https://www.scrollx.io/#features">Watch Video</a>
         </div>
 
         <div class="features">
