@@ -101,7 +101,7 @@
         <a href="#pricing">Pricing</a>
         <a href="#blog">Blog</a>
         <span class="cta">
-          <a class="btn" href="#">Log In</a>
+          <a class="btn" href="https://app.scrollx.io/?_gl=1*1ik5eex*_gcl_au*OTkyNjg1OTgzLjE3NjM4MjgxNDI.*_ga*MTg4ODIxMzMwMy4xNzYzODI4MTQy*_ga_Y7VLQ5C68F*czE3NjM4MzgxOTYkbzQkZzEkdDE3NjM4Mzk1NTkkajYwJGwwJGgxNjE0MzI1NjAx">Log In</a>
           <a class="btn btn-primary" href="#">Join Free</a>
         </span>
       </nav>
